@@ -14,8 +14,8 @@ struct ContentView: View {
         VStack {
             Model3D(named: "Scene", bundle: realityKitContentBundle)
                 .padding(.bottom, 50)
-
-            Text("Hello, world!")
+            
+            IntroSequence()
         }
         .padding()
     }

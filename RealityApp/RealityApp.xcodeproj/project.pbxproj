@@ -12,6 +12,7 @@
 		4D953E0A2B56E2CC00144145 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D953E092B56E2CC00144145 /* ContentView.swift */; };
 		4D953E0C2B56E2CD00144145 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4D953E0B2B56E2CD00144145 /* Assets.xcassets */; };
 		4D953E0F2B56E2CD00144145 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4D953E0E2B56E2CD00144145 /* Preview Assets.xcassets */; };
+		4D953E172B56E51300144145 /* IntroSequence.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D953E162B56E51300144145 /* IntroSequence.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		4D953E0B2B56E2CD00144145 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		4D953E0E2B56E2CD00144145 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		4D953E102B56E2CD00144145 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4D953E162B56E51300144145 /* IntroSequence.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IntroSequence.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 			children = (
 				4D953E072B56E2CC00144145 /* RealityAppApp.swift */,
 				4D953E092B56E2CC00144145 /* ContentView.swift */,
+				4D953E162B56E51300144145 /* IntroSequence.swift */,
 				4D953E0B2B56E2CD00144145 /* Assets.xcassets */,
 				4D953E102B56E2CD00144145 /* Info.plist */,
 				4D953E0D2B56E2CD00144145 /* Preview Content */,
@@ -155,6 +158,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				4D953E0A2B56E2CC00144145 /* ContentView.swift in Sources */,
+				4D953E172B56E51300144145 /* IntroSequence.swift in Sources */,
 				4D953E082B56E2CC00144145 /* RealityAppApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
